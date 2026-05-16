@@ -632,14 +632,19 @@
         "uuid": "e2200f6c-60c0-4d98-9ad4-8329c456a7d8"
       },
       {
-        "filename": "Schematics\\main.kicad_sch",
-        "name": "Schematics/Main",
+        "filename": "HardwareLab.kicad_sch",
+        "name": "HardwareLab",
         "uuid": "98e68971-b894-483b-b87c-a033f494bf81"
       },
       {
-        "filename": "Schematics\\MicroSD\\microsd.kicad_sch",
-        "name": "Schematics/MicroSD/MicroSD/MicroSD",
+        "filename": "HardwareLab.kicad_sch",
+        "name": "HardwareLab",
         "uuid": "10af4830-a4ab-4126-bc9c-1745ae506706"
+      },
+      {
+        "filename": "oled\\displayi2c_ssd1306.kicad_sch",
+        "name": "OLED/displayi2c_ssd1306",
+        "uuid": "f5b64a33-cbc9-4963-a579-aa7020a42268"
       }
     ],
     "used_designators": "",
@@ -647,16 +652,20 @@
   },
   "sheets": [
     [
+      "98e68971-b894-483b-b87c-a033f494bf81",
+      "HardwareLab"
+    ],
+    [
+      "10af4830-a4ab-4126-bc9c-1745ae506706",
+      "HardwareLab"
+    ],
+    [
       "e2200f6c-60c0-4d98-9ad4-8329c456a7d8",
       "HardwareLab"
     ],
     [
-      "98e68971-b894-483b-b87c-a033f494bf81",
-      "Schematics/Main"
-    ],
-    [
-      "10af4830-a4ab-4126-bc9c-1745ae506706",
-      "Schematics/MicroSD/MicroSD/MicroSD"
+      "f5b64a33-cbc9-4963-a579-aa7020a42268",
+      "OLED/displayi2c_ssd1306"
     ]
   ],
   "text_variables": {},
