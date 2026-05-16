@@ -1792,6 +1792,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "GND.....: BLK\nSD_MISO.: D5\nSD_CLK..: D18\nSD_MOSI.: D19\nSD_CS...: D23\nSD_3V3..: RED"
+		(exclude_from_sim no)
+		(at 53.34 70.9186 0)
+		(size 20.32 14.1714)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "3482b256-f13a-4d51-9ef3-b773cc2e537f")
+	)
 	(junction
 		(at 176.53 71.12)
 		(diameter 0)
@@ -2310,6 +2330,12 @@
 					(unit 1)
 				)
 			)
+			(project "microsd"
+				(path "/9c9af27e-1360-490e-8bd0-8cc6b41b19d0"
+					(reference "U2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2384,6 +2410,12 @@
 		(instances
 			(project "HardwareLab"
 				(path "/10af4830-a4ab-4126-bc9c-1745ae506706"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+			(project "microsd"
+				(path "/9c9af27e-1360-490e-8bd0-8cc6b41b19d0"
 					(reference "#PWR011")
 					(unit 1)
 				)
@@ -2471,6 +2503,12 @@
 					(unit 1)
 				)
 			)
+			(project "microsd"
+				(path "/9c9af27e-1360-490e-8bd0-8cc6b41b19d0"
+					(reference "C2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2546,6 +2584,12 @@
 		(instances
 			(project "HardwareLab"
 				(path "/10af4830-a4ab-4126-bc9c-1745ae506706"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+			(project "microsd"
+				(path "/9c9af27e-1360-490e-8bd0-8cc6b41b19d0"
 					(reference "#PWR010")
 					(unit 1)
 				)
@@ -2628,6 +2672,12 @@
 					(unit 1)
 				)
 			)
+			(project "microsd"
+				(path "/9c9af27e-1360-490e-8bd0-8cc6b41b19d0"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2703,6 +2753,12 @@
 		(instances
 			(project "HardwareLab"
 				(path "/10af4830-a4ab-4126-bc9c-1745ae506706"
+					(reference "#FLG06")
+					(unit 1)
+				)
+			)
+			(project "microsd"
+				(path "/9c9af27e-1360-490e-8bd0-8cc6b41b19d0"
 					(reference "#FLG06")
 					(unit 1)
 				)
@@ -2788,6 +2844,12 @@
 					(unit 1)
 				)
 			)
+			(project "microsd"
+				(path "/9c9af27e-1360-490e-8bd0-8cc6b41b19d0"
+					(reference "C1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2865,6 +2927,12 @@
 		(instances
 			(project "HardwareLab"
 				(path "/10af4830-a4ab-4126-bc9c-1745ae506706"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+			(project "microsd"
+				(path "/9c9af27e-1360-490e-8bd0-8cc6b41b19d0"
 					(reference "R1")
 					(unit 1)
 				)
@@ -2948,6 +3016,12 @@
 					(unit 1)
 				)
 			)
+			(project "microsd"
+				(path "/9c9af27e-1360-490e-8bd0-8cc6b41b19d0"
+					(reference "#FLG07")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3027,6 +3101,12 @@
 					(unit 1)
 				)
 			)
+			(project "microsd"
+				(path "/9c9af27e-1360-490e-8bd0-8cc6b41b19d0"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3102,6 +3182,12 @@
 		(instances
 			(project "HardwareLab"
 				(path "/10af4830-a4ab-4126-bc9c-1745ae506706"
+					(reference "PWR1")
+					(unit 1)
+				)
+			)
+			(project "microsd"
+				(path "/9c9af27e-1360-490e-8bd0-8cc6b41b19d0"
 					(reference "PWR1")
 					(unit 1)
 				)
@@ -3270,6 +3356,12 @@
 					(unit 1)
 				)
 			)
+			(project "microsd"
+				(path "/9c9af27e-1360-490e-8bd0-8cc6b41b19d0"
+					(reference "ESP32_DEVKIT_V1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3350,6 +3442,12 @@
 					(unit 1)
 				)
 			)
+			(project "microsd"
+				(path "/9c9af27e-1360-490e-8bd0-8cc6b41b19d0"
+					(reference "GND1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3424,6 +3522,12 @@
 		(instances
 			(project "HardwareLab"
 				(path "/10af4830-a4ab-4126-bc9c-1745ae506706"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+			(project "microsd"
+				(path "/9c9af27e-1360-490e-8bd0-8cc6b41b19d0"
 					(reference "#PWR012")
 					(unit 1)
 				)
