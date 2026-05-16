@@ -472,7 +472,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "LibraryDev.kicad_pro",
+    "filename": "HardwareLab.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -627,18 +627,36 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "LibraryDev.kicad_sch",
-        "name": "LibraryDev",
+        "filename": "HardwareLab.kicad_sch",
+        "name": "HardwareLab",
         "uuid": "e2200f6c-60c0-4d98-9ad4-8329c456a7d8"
+      },
+      {
+        "filename": "Schematics\\main.kicad_sch",
+        "name": "Schematics/Main",
+        "uuid": "98e68971-b894-483b-b87c-a033f494bf81"
+      },
+      {
+        "filename": "Schematics\\MicroSD\\microsd.kicad_sch",
+        "name": "Schematics/MicroSD/MicroSD/MicroSD",
+        "uuid": "10af4830-a4ab-4126-bc9c-1745ae506706"
       }
     ],
-    "used_designators": "J1,#FLG3-5,#PWR2,#PWR5,#PWR7",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
     [
       "e2200f6c-60c0-4d98-9ad4-8329c456a7d8",
-      "LibraryDev"
+      "HardwareLab"
+    ],
+    [
+      "98e68971-b894-483b-b87c-a033f494bf81",
+      "Schematics/Main"
+    ],
+    [
+      "10af4830-a4ab-4126-bc9c-1745ae506706",
+      "Schematics/MicroSD/MicroSD/MicroSD"
     ]
   ],
   "text_variables": {},
