@@ -642,15 +642,24 @@
         "uuid": "10af4830-a4ab-4126-bc9c-1745ae506706"
       },
       {
-        "filename": "oled\\displayi2c_ssd1306.kicad_sch",
-        "name": "OLED/displayi2c_ssd1306",
+        "filename": "HardwareLab.kicad_sch",
+        "name": "HardwareLab",
         "uuid": "f5b64a33-cbc9-4963-a579-aa7020a42268"
+      },
+      {
+        "filename": "schematics\\servosg90\\servo.kicad_sch",
+        "name": "Schematics/ServoSG90/servo",
+        "uuid": "fd2db148-4b2f-4edb-aa21-c05ca54ffe78"
       }
     ],
     "used_designators": "",
     "variants": []
   },
   "sheets": [
+    [
+      "f5b64a33-cbc9-4963-a579-aa7020a42268",
+      "HardwareLab"
+    ],
     [
       "98e68971-b894-483b-b87c-a033f494bf81",
       "HardwareLab"
@@ -664,8 +673,8 @@
       "HardwareLab"
     ],
     [
-      "f5b64a33-cbc9-4963-a579-aa7020a42268",
-      "OLED/displayi2c_ssd1306"
+      "fd2db148-4b2f-4edb-aa21-c05ca54ffe78",
+      "Schematics/ServoSG90/servo"
     ]
   ],
   "text_variables": {},
