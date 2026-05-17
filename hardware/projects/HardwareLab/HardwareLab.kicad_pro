@@ -647,9 +647,14 @@
         "uuid": "f5b64a33-cbc9-4963-a579-aa7020a42268"
       },
       {
-        "filename": "schematics\\sensorultrassonico\\hc-sr04.kicad_sch",
-        "name": "Schematics/SensorUltrassonico/hc-sr04",
+        "filename": "HardwareLab.kicad_sch",
+        "name": "HardwareLab",
         "uuid": "b5218acf-c4e7-473f-bed7-5f9d7e755e73"
+      },
+      {
+        "filename": "schematics\\potenciometro\\pot-500k.kicad_sch",
+        "name": "Schematics/Potenciometro/pot-500k",
+        "uuid": "a103806c-7cac-4b0a-aae7-ca04a9fe9e2f"
       }
     ],
     "used_designators": "",
@@ -665,6 +670,10 @@
       "HardwareLab"
     ],
     [
+      "b5218acf-c4e7-473f-bed7-5f9d7e755e73",
+      "HardwareLab"
+    ],
+    [
       "10af4830-a4ab-4126-bc9c-1745ae506706",
       "HardwareLab"
     ],
@@ -673,8 +682,8 @@
       "HardwareLab"
     ],
     [
-      "b5218acf-c4e7-473f-bed7-5f9d7e755e73",
-      "Schematics/SensorUltrassonico/hc-sr04"
+      "a103806c-7cac-4b0a-aae7-ca04a9fe9e2f",
+      "Schematics/Potenciometro/pot-500k"
     ]
   ],
   "text_variables": {},
