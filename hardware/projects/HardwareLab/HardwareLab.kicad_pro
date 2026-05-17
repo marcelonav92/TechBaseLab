@@ -647,9 +647,9 @@
         "uuid": "f5b64a33-cbc9-4963-a579-aa7020a42268"
       },
       {
-        "filename": "schematics\\servosg90\\servo.kicad_sch",
-        "name": "Schematics/ServoSG90/servo",
-        "uuid": "fd2db148-4b2f-4edb-aa21-c05ca54ffe78"
+        "filename": "schematics\\sensorultrassonico\\hc-sr04.kicad_sch",
+        "name": "Schematics/SensorUltrassonico/hc-sr04",
+        "uuid": "b5218acf-c4e7-473f-bed7-5f9d7e755e73"
       }
     ],
     "used_designators": "",
@@ -673,8 +673,8 @@
       "HardwareLab"
     ],
     [
-      "fd2db148-4b2f-4edb-aa21-c05ca54ffe78",
-      "Schematics/ServoSG90/servo"
+      "b5218acf-c4e7-473f-bed7-5f9d7e755e73",
+      "Schematics/SensorUltrassonico/hc-sr04"
     ]
   ],
   "text_variables": {},
